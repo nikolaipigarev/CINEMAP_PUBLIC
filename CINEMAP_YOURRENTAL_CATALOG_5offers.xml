@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-01-23 23:59">
+  <shop>
+    <name>Аренда кинооборудования | рентал Cinemap</name>
+    <company>Cinemap</company>
+    <url>https://cinemap.ru</url>
+    <platform>Wordpress</platform>
+    <categories>
+      <category id="13915">Камеры</category>
+      <category id="13923">Оптика</category>
+      <category id="13928">Аксессуары для Камер</category>
+      <category id="13937">Операторское оборудование</category>
+      <category id="13943">Свет</category>
+      <category id="13954">Звук</category>
+      <category id="13958">Мониторы / Плейбэк</category>
+      <category id="13962">Коммутация</category>
+      <category id="13966">Источники питания</category>
+      <category id="13970">Грип</category>
+      <category id="13974">Все для съёмочной площадки</category>
+      <category id="13978">Расходные материалы</category>
+      <category id="13982">Монтаж / Пост</category>
+      <category id="13986">Сервис и Услуги</category>
+      <category id="13990">Экипировка</category>
+      <category id="13994">Арт Департамент</category>
+      <category id="13998">Кино Транспорт</category>
+      <category id="14002">Специальное Оборудование</category>
+      <category id="13916" parentId="13915">Цифровые кинокамеры</category>
+      <category id="13917" parentId="13915">Фотокамеры</category>
+      <category id="13918" parentId="13915">Студийные и телевизионные камеры</category>
+      <category id="13919" parentId="13915">Любительские видеокамеры</category>
+      <category id="13920" parentId="13915">Экшн-камеры и 360</category>
+      <category id="13921" parentId="13915">Скоростные Камеры</category>
+      <category id="13922" parentId="13915">Винтаж / Реквизит</category>
+      <category id="13924" parentId="13923">Объективы</category>
+      <category id="13925" parentId="13923">Адаптеры, насадки, маунты</category>
+      <category id="13926" parentId="13923">Фильтры круглые</category>
+      <category id="13927" parentId="13923">Фильтры прямоугольные</category>
+      <category id="13929" parentId="13928">Клетки и площадки</category>
+      <category id="13930" parentId="13928">Карты памяти и диски</category>
+      <category id="13933" parentId="13928">Фоллоуфокусы</category>
+      <category id="13934" parentId="13928">Компендиумы</category>
+      <category id="13935" parentId="13928">Ручки и Плечевые упоры</category>
+      <category id="13936" parentId="13928">Адаптеры / Переходники</category>
+      <category id="13938" parentId="13937">Системы стабилизации</category>
+      <category id="13939" parentId="13937">Краны и Долли</category>
+      <category id="13940" parentId="13937">Слайдеры и скейтеры</category>
+      <category id="13948" parentId="13958">Видео передатчики</category>
+    </categories>
+    <filters>
+      <filter id="14603">Тип</filter>
+      <filter id="14607">Опции оптики</filter>
+      <filter id="15525">Опции фильтров</filter>
+      <filter id="15534">Размер фильтров прямоугольных</filter>
+      <filter id="14605" parentId="14603">Фикс</filter>
+      <filter id="14606" parentId="14603">Зум</filter>
+      <filter id="14631" parentId="14607">Anamorphic</filter>
+      <filter id="14622" parentId="14607">Macro lens</filter>
+      <filter id="15524" parentId="14607">Lens Data</filter>
+      <filter id="14628" parentId="14607">Stabilized</filter>
+      <filter id="14632" parentId="14607">Effects</filter>
+      <filter id="14625" parentId="14607">Periscope</filter>
+      <filter id="14630" parentId="14607">Probe</filter>
+      <filter id="14627" parentId="14607">Soft lens</filter>
+      <filter id="14623" parentId="14607">Fisheye lens</filter>
+      <filter id="14629" parentId="14607">Defocus control</filter>
+      <filter id="14633" parentId="14607">Adapter</filter>
+      <filter id="14621" parentId="14607">Motorized</filter>
+      <filter id="14624" parentId="14607">Mirror lens</filter>
+      <filter id="14626" parentId="14607">Tilt/Shift lens</filter>
+      <filter id="15531" parentId="15525">Оптические эффекты</filter>
+      <filter id="15527" parentId="15525">НД</filter>
+      <filter id="15528" parentId="15525">Смягчающие и контрастные</filter>
+      <filter id="15532" parentId="15525">Специального назначения</filter>
+      <filter id="15530" parentId="15525">Цветовые эффекты</filter>
+      <filter id="15526" parentId="15525">Защитные и поляризационные</filter>
+      <filter id="15529" parentId="15525">Цветоизменяющие и черно белые</filter>
+      <filter id="15533" parentId="15525">Аксессуары к фильтрам</filter>
+      <filter id="15537" parentId="15534">4x5.65</filter>
+      <filter id="15536" parentId="15534">4x4</filter>
+      <filter id="15538" parentId="15534">5.65x5.65</filter>
+      <filter id="15535" parentId="15534">3x3</filter>
+      <filter id="15539" parentId="15534">6x6</filter>
+    </filters>
+    <offers>
+      <offer id="1" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-leitz-prime/?rent</url>
+        <name>Комплект Leitz Prime</name>
+        <vendor>Leitz</vendor>
+        <model>Prime Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Leitz Prime — комплект из 12 флагманских полнокадровых кинообъективов T1.8 от 18 до 180mm. Наследник легендарных SUMMILUX-C, изображение без артефактов, естественная передача реальности. PL/LPL mount с Cooke /i.</description>
+        <picture>https://aimimage.com/wp-content/uploads/2025/12/Leitz-Cine-Primes-1080x445.png</picture>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="2" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-scorpio-anamorphic/?rent</url>
+        <name>Комплект Scorpio Anamorphic</name>
+        <vendor>Scorpio</vendor>
+        <model>Anamorphic Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Scorpio Anamorphic — комплект полнокадровых анаморфотных объективов 2x.</description>
+        <picture>https://rental.servicevision.es/wp-content/uploads/2019/02/056_ScorpioLens_Anamorphic2x-1-scaled.jpg</picture>
+        <filterId>14605</filterId>
+        <filterId>14631</filterId>
+      </offer>
+      <offer id="3" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-zeiss-super-speed-rehouse-by-ancient-optics/?rent</url>
+        <name>Комплект Zeiss Super Speed Rehouse by Ancient Optics</name>
+        <vendor>Zeiss</vendor>
+        <model>Super Speed Rehouse by Ancient Optics</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Zeiss Super Speed Rehouse by Ancient Optics — легендарные объективы Zeiss Super Speed, переоборудованные Ancient Optics. Классический винтажный характер с современными удобствами.</description>
+        <picture>https://i.imgur.com/AuR4srM.jpeg</picture>
+        <filterId>14605</filterId>
+        <filterId>14628</filterId>
+      </offer>
+      <offer id="4" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-vantage-one/?rent</url>
+        <name>Комплект Vantage One</name>
+        <vendor>Hawk</vendor>
+        <model>Vantage One Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Hawk Vantage One — комплект сверхсветосильных сферических объективов T1 для формата Super35. 12 фокусных расстояний от 14.5 до 120mm. Три характера в одном объективе благодаря системе Vantage Unified Optics.</description>
+        <picture>https://www.keslowcamera.com/assets/products/VANTAGE-ONE-SET-1__ScaleHeightWzUwMF0.jpg</picture>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="5" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-ps-t-rex-periscope-system/?rent</url>
+        <name>Комплект P+S T-rex Periscope System</name>
+        <vendor>P+S Technik</vendor>
+        <model>T-rex Periscope System</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>P+S T-rex Periscope System — перископическая система для съёмки в труднодоступных местах. Позволяет снимать под углами 90°.</description>
+        <picture>https://www.keslowcamera.com/assets/products/T-REX-LENS-SYSTEM-1-__ScaleHeightWzUwMF0.jpg</picture>
+        <filterId>14605</filterId>
+        <filterId>14622</filterId>
+        <filterId>14625</filterId>
+        <filterId>14628</filterId>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
