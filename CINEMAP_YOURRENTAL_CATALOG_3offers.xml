@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-01-23 14:23">
+  <shop>
+    <name>Аренда кинооборудования | рентал Cinemap</name>
+    <company>Cinemap</company>
+    <url>https://cinemap.ru</url>
+    <platform>Wordpress</platform>
+    <categories>
+      <category id="13915">Камеры</category>
+      <category id="13923">Оптика</category>
+      <category id="13928">Аксессуары для Камер</category>
+      <category id="13937">Операторское оборудование</category>
+      <category id="13943">Свет</category>
+      <category id="13954">Звук</category>
+      <category id="13958">Мониторы / Плейбэк</category>
+      <category id="13962">Коммутация</category>
+      <category id="13966">Источники питания</category>
+      <category id="13970">Грип</category>
+      <category id="13974">Все для съёмочной площадки</category>
+      <category id="13978">Расходные материалы</category>
+      <category id="13982">Монтаж / Пост</category>
+      <category id="13986">Сервис и Услуги</category>
+      <category id="13990">Экипировка</category>
+      <category id="13994">Арт Департамент</category>
+      <category id="13998">Кино Транспорт</category>
+      <category id="14002">Специальное Оборудование</category>
+      <category id="13916" parentId="13915">Цифровые кинокамеры</category>
+      <category id="13917" parentId="13915">Фотокамеры</category>
+      <category id="13918" parentId="13915">Студийные и телевизионные камеры</category>
+      <category id="13919" parentId="13915">Любительские видеокамеры</category>
+      <category id="13920" parentId="13915">Экшн-камеры и 360</category>
+      <category id="13921" parentId="13915">Скоростные Камеры</category>
+      <category id="13922" parentId="13915">Винтаж / Реквизит</category>
+      <category id="13924" parentId="13923">Объективы</category>
+      <category id="13925" parentId="13923">Адаптеры, насадки, маунты</category>
+      <category id="13926" parentId="13923">Фильтры круглые</category>
+      <category id="13927" parentId="13923">Фильтры прямоугольные</category>
+      <category id="13929" parentId="13928">Клетки и площадки</category>
+      <category id="13930" parentId="13928">Карты памяти и диски</category>
+      <category id="13933" parentId="13928">Фоллоуфокусы</category>
+      <category id="13934" parentId="13928">Компендиумы</category>
+      <category id="13935" parentId="13928">Ручки и Плечевые упоры</category>
+      <category id="13936" parentId="13928">Адаптеры / Переходники</category>
+      <category id="13938" parentId="13937">Системы стабилизации</category>
+      <category id="13939" parentId="13937">Краны и Долли</category>
+      <category id="13940" parentId="13937">Слайдеры и скейтеры</category>
+      <category id="13948" parentId="13958">Видео передатчики</category>
+    </categories>
+    <offers>
+      <offer id="1" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-leitz-prime/?rent</url>
+        <name>Комплект Leitz Prime</name>
+        <vendor>Leitz</vendor>
+        <model>Prime Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Leitz Prime — комплект полнокадровых кинообъективов с апертурой T1.8, охватывающий фокусные расстояния от 18 до 180 мм. Объективы рассчитаны на формат 35 мм, обеспечивают высокую чёткость и прозрачность изображения. Сочетание широкого диапазона фокусных расстояний и мягкой глубины резкости делает их универсальным выбором для разных сценариев. Подходят для съёмки в условиях низкой освещённости благодаря высокой светосиле.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="2" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-leitz-elsie/?rent</url>
+        <name>Комплект Leitz Elsie</name>
+        <vendor>Leitz</vendor>
+        <model>ELSIE Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Leitz ELSIE — комплект полнокадровых объективов с апертурой T2.1, включающий 8 фокусных расстояний: 15, 21, 25, 35, 50, 75, 100 и 135 мм. Объективы выполнены в стиле Leica, обеспечивая естественную глубину резкости и точную экспозицию. Идеально подходят для съёмки в условиях слабого освещения благодаря широкой диафрагме. Объективы совместимы с камерами с байонетом, поддерживающим полнокадровый формат.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="3" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-leitz-hugo/?rent</url>
+        <name>Комплект Leitz Hugo</name>
+        <vendor>Leitz</vendor>
+        <model>HUGO Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Leitz HUGO — комплект полнокадровых объективов с апертурой T1.5, включает фокусные расстояния 21, 25, 35, 50 и 75 мм. Объективы обеспечивают высокую светосилу, что позволяет снимать в сложных освещенных условиях без необходимости повышения ISO. Формат кадра — полнокадровый, что подходит для современных камер с высоким разрешением. Комплект удобен для съёмок в различных сценариях, от портретов до штудио-съёмок.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
