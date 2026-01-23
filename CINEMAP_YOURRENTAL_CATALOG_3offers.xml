@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-01-23 23:51">
+<yml_catalog date="2026-01-23 23:54">
   <shop>
     <name>Аренда кинооборудования | рентал Cinemap</name>
     <company>Cinemap</company>
     <url>https://cinemap.ru</url>
     <platform>Wordpress</platform>
- 
     <categories>
       <category id="13915">Камеры</category>
       <category id="13923">Оптика</category>
@@ -47,8 +46,7 @@
       <category id="13940" parentId="13937">Слайдеры и скейтеры</category>
       <category id="13948" parentId="13958">Видео передатчики</category>
     </categories>
-
-   <filters>
+    <filters>
       <filter id="14603">Тип</filter>
       <filter id="14607">Опции оптики</filter>
       <filter id="15525">Опции фильтров</filter>
@@ -83,7 +81,6 @@
       <filter id="15535" parentId="15534">3x3</filter>
       <filter id="15539" parentId="15534">6x6</filter>
     </filters>
-
     <offers>
       <offer id="1" type="vendor.model" available="true">
         <url>https://cinemap.ru/devices/комплект-leitz-prime/?rent</url>
@@ -116,14 +113,6 @@
         <name>Комплект Leitz Hugo</name>
         <vendor>Leitz</vendor>
         <model>HUGO Set</model>
-        <param name="devices_kit">kit</param>
-        <price/>
-        <currencyId>RUB</currencyId>
-        <categoryId>13924</categoryId>
-        <description>Leitz HUGO — комплект полнокадровых объективов с апертурой T1.5, включает фокусные расстояния 21, 25, 35, 50 и 75 мм. Объективы обеспечивают высокую светосилу, что позволяет снимать в сложных освещенных условиях без необходимости повышения ISO. Формат кадра — полнокадровый, что подходит для современных камер с высоким разрешением. Комплект удобен для съёмок в различных сценариях, от портретов до штудио-съёмок.</description>
-        <picture>https://newlifecine.com/wp-content/uploads/2024/04/Untitled-design-2024-04-23T184858.318.jpg</picture>
-        <devices_filter_14605>Фикс</devices_filter_14605>
-      </offer>
     </offers>
   </shop>
 </yml_catalog>
