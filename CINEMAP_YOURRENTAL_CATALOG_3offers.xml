@@ -1,45 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-01-23 23:42">
+<yml_catalog date="2026-01-23 23:44">
   <shop>
     <name>Аренда кинооборудования | рентал Cinemap</name>
     <company>Cinemap</company>
     <url>https://cinemap.ru</url>
     <platform>Wordpress</platform>
-    <filters>
-      <filter id="14603">Тип</filter>
-      <filter id="14607">Опции оптики</filter>
-      <filter id="15525">Опции фильтров</filter>
-      <filter id="15534">Размер фильтров прямоугольных</filter>
-      <filter id="14605" parentId="14603">Фикс</filter>
-      <filter id="14606" parentId="14603">Зум</filter>
-      <filter id="14631" parentId="14607">Anamorphic</filter>
-      <filter id="14622" parentId="14607">Macro lens</filter>
-      <filter id="15524" parentId="14607">Lens Data</filter>
-      <filter id="14628" parentId="14607">Stabilized</filter>
-      <filter id="14632" parentId="14607">Effects</filter>
-      <filter id="14625" parentId="14607">Periscope</filter>
-      <filter id="14630" parentId="14607">Probe</filter>
-      <filter id="14627" parentId="14607">Soft lens</filter>
-      <filter id="14623" parentId="14607">Fisheye lens</filter>
-      <filter id="14629" parentId="14607">Defocus control</filter>
-      <filter id="14633" parentId="14607">Adapter</filter>
-      <filter id="14621" parentId="14607">Motorized</filter>
-      <filter id="14624" parentId="14607">Mirror lens</filter>
-      <filter id="14626" parentId="14607">Tilt/Shift lens</filter>
-      <filter id="15531" parentId="15525">Оптические эффекты</filter>
-      <filter id="15527" parentId="15525">НД</filter>
-      <filter id="15528" parentId="15525">Смягчающие и контрастные</filter>
-      <filter id="15532" parentId="15525">Специального назначения</filter>
-      <filter id="15530" parentId="15525">Цветовые эффекты</filter>
-      <filter id="15526" parentId="15525">Защитные и поляризационные</filter>
-      <filter id="15529" parentId="15525">Цветоизменяющие и черно белые</filter>
-      <filter id="15533" parentId="15525">Аксессуары к фильтрам</filter>
-      <filter id="15537" parentId="15534">4x5.65</filter>
-      <filter id="15536" parentId="15534">4x4</filter>
-      <filter id="15538" parentId="15534">5.65x5.65</filter>
-      <filter id="15535" parentId="15534">3x3</filter>
-      <filter id="15539" parentId="15534">6x6</filter>
-    </filters>
     <categories>
       <category id="13915">Камеры</category>
       <category id="13923">Оптика</category>
@@ -81,6 +46,41 @@
       <category id="13940" parentId="13937">Слайдеры и скейтеры</category>
       <category id="13948" parentId="13958">Видео передатчики</category>
     </categories>
+    <filters>
+      <filter id="14603">Тип</filter>
+      <filter id="14607">Опции оптики</filter>
+      <filter id="15525">Опции фильтров</filter>
+      <filter id="15534">Размер фильтров прямоугольных</filter>
+      <filter id="14605" parentId="14603">Фикс</filter>
+      <filter id="14606" parentId="14603">Зум</filter>
+      <filter id="14631" parentId="14607">Anamorphic</filter>
+      <filter id="14622" parentId="14607">Macro lens</filter>
+      <filter id="15524" parentId="14607">Lens Data</filter>
+      <filter id="14628" parentId="14607">Stabilized</filter>
+      <filter id="14632" parentId="14607">Effects</filter>
+      <filter id="14625" parentId="14607">Periscope</filter>
+      <filter id="14630" parentId="14607">Probe</filter>
+      <filter id="14627" parentId="14607">Soft lens</filter>
+      <filter id="14623" parentId="14607">Fisheye lens</filter>
+      <filter id="14629" parentId="14607">Defocus control</filter>
+      <filter id="14633" parentId="14607">Adapter</filter>
+      <filter id="14621" parentId="14607">Motorized</filter>
+      <filter id="14624" parentId="14607">Mirror lens</filter>
+      <filter id="14626" parentId="14607">Tilt/Shift lens</filter>
+      <filter id="15531" parentId="15525">Оптические эффекты</filter>
+      <filter id="15527" parentId="15525">НД</filter>
+      <filter id="15528" parentId="15525">Смягчающие и контрастные</filter>
+      <filter id="15532" parentId="15525">Специального назначения</filter>
+      <filter id="15530" parentId="15525">Цветовые эффекты</filter>
+      <filter id="15526" parentId="15525">Защитные и поляризационные</filter>
+      <filter id="15529" parentId="15525">Цветоизменяющие и черно белые</filter>
+      <filter id="15533" parentId="15525">Аксессуары к фильтрам</filter>
+      <filter id="15537" parentId="15534">4x5.65</filter>
+      <filter id="15536" parentId="15534">4x4</filter>
+      <filter id="15538" parentId="15534">5.65x5.65</filter>
+      <filter id="15535" parentId="15534">3x3</filter>
+      <filter id="15539" parentId="15534">6x6</filter>
+    </filters>
     <offers>
       <offer id="1" type="vendor.model" available="true">
         <url>https://cinemap.ru/devices/комплект-leitz-prime/?rent</url>
