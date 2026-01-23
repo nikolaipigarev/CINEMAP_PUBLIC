@@ -73,4 +73,325 @@
         <description>Leitz ELSIE — комплект полнокадровых объективов с апертурой T2.1, включающий 8 фокусных расстояний: 15, 21, 25, 35, 50, 75, 100 и 135 мм. Объективы выполнены в стиле Leica, обеспечивая естественную глубину резкости и точную экспозицию. Идеально подходят для съёмки в условиях слабого освещения благодаря широкой диафрагме. Объективы совместимы с камерами с байонетом, поддерживающим полнокадровый формат.</description>
         <devices_filter_14605>Фикс</devices_filter_14605>
       </offer>
-    
+      <offer id="3" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-leitz-hugo/?rent</url>
+        <name>Комплект Leitz Hugo</name>
+        <vendor>Leitz</vendor>
+        <model>HUGO Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Leitz HUGO — комплект полнокадровых объективов с апертурой T1.5, включает фокусные расстояния 21, 25, 35, 50 и 75 мм. Объективы обеспечивают высокую светосилу, что позволяет снимать в сложных освещенных условиях без необходимости повышения ISO. Формат кадра — полнокадровый, что подходит для современных камер с высоким разрешением. Комплект удобен для съёмок в различных сценариях, от портретов до штудио-съёмок.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="4" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-leitz-summilux-c/?rent</url>
+        <name>Комплект Leitz Summilux-C</name>
+        <vendor>Leitz</vendor>
+        <model>Summilux-C Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Leitz Summilux-C — комплект кинообъективов с апертурой T1.4, охватывающий фокусные расстояния от 18 до 135 мм. Объективы рассчитаны на формат 35 мм, обеспечивают высокую светосилу и чёткость в условиях слабого освещения. Удобная конструкция позволяет быстро переключаться между фокусными расстояниями, что полезно для динамичных съёмок. Стабильная оптика и низкие потери в диапазоне ISO 100–800 делают их надежным выбором для разных сценариев.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="5" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-leica-m-08/?rent</url>
+        <name>Комплект Leica M 0.8</name>
+        <vendor>Leica</vendor>
+        <model>M 0.8 Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Leica M 0.8 — компактные объективы с аналоговым характером изображения. 7 фокусных расстояний от 21mm до 90mm с уникальным кривым фокусированием и естественной глубиной.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="6" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-arri-signature-prime/?rent</url>
+        <name>Комплект Arri Signature Prime</name>
+        <vendor>ARRI</vendor>
+        <model>Signature Prime Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>ARRI Signature Prime — комплект современных кинообъективов с уникальным характером. Тёплые оттенки кожи, открытые тени с чёрными контурами, боке как взгляд через окно в дождь. Диапазон фокусных расстояний 12-280mm, светосила T1.8-T2.8.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="7" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-arri-enso/?rent</url>
+        <name>Комплект Arri Enso</name>
+        <vendor>ARRI</vendor>
+        <model>Ensō Prime Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>ARRI Ensō Prime — компактные и универсальные объективы с исключительным качеством изображения. 14 фокусных расстояний от 10.5mm до 250mm с возможностью смены задней оптики для создания разных образов.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="8" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-arri-master-prime/?rent</url>
+        <name>Комплект Arri Master Prime</name>
+        <vendor>ARRI</vendor>
+        <model>Master Prime Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>ARRI/ZEISS Master Prime — сверхсветосильные объективы с оптическим качеством, превосходящим стандартные объективы. 16 фокусных расстояний с светосилой T1.2-T1.3.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="9" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-arri-ultra-prime/?rent</url>
+        <name>Комплект Arri Ultra Prime</name>
+        <vendor>ARRI</vendor>
+        <model>Ultra Prime Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>ARRI Ultra Prime — классические объективы с превосходной оптической производительностью. Компактные, лёгкие и надёжные для ежедневной работы.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="10" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-scorpio-anamorphic/?rent</url>
+        <name>Комплект Scorpio Anamorphic</name>
+        <vendor>Scorpio</vendor>
+        <model>Anamorphic Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Scorpio Anamorphic — комплект полнокадровых анаморфотных объективов 2x. В комплекте доступны фокусные расстояния 21, 25, 40, 65 и 100 мм (Set A) и 32, 50, 80 мм (Set B). Объективы обеспечивают формат 2.39:1, сохраняя высокую четкость и естественную глубину поля. Подходят для съемки в условиях слабой освещенности благодаря широкой апертуре. Идеально подходят для создания атмосферного киносъемочного образа с характерной анизотропией света.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+        <devices_filter_14631>Anamorphic</devices_filter_14631>
+      </offer>
+      <offer id="11" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-lomo-anamorphic-rf-rehouse/?rent</url>
+        <name>Комплект Lomo Anamorphic RF rehouse</name>
+        <vendor>Lomo</vendor>
+        <model>Anamorphic Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Lomo Anamorphic Set — комплект советских анаморфотных объективов 2x с фокусными расстояниями 35, 50, 75, 100, 135 мм. Объективы работают в диапазоне апертуры T2,3–T2,6. Формат съёмки — 4:3, с характерными овальными бликами. Подходит для создания атмосферного киносвета и динамичных сцен. Объективы требуют точной настройки фокуса и диафрагмы, особенно при работе с высоким ISO.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+        <devices_filter_14631>Anamorphic</devices_filter_14631>
+      </offer>
+      <offer id="12" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-lomo-anamorphic-sf-rehouse/?rent</url>
+        <name>Комплект Lomo Anamorphic SF rehouse</name>
+        <vendor>Lomo</vendor>
+        <model>Anamorphic Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Lomo Anamorphic Set — комплект советских анаморфотных объективов 2x с фокусными расстояниями 35, 50, 75, 100 и 135 мм. Объективы отличаются характерными овальными бликами, что добавляет съёмке визуальной глубины и атмосферы. Апертура T2 обеспечивает мягкий фокус и хорошую экспозицию в сложных освещениях. Подходит для создания кинематографического стиля с минимальными затратами на пост-продакшн.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+        <devices_filter_14631>Anamorphic</devices_filter_14631>
+      </offer>
+      <offer id="13" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-cooke-anamorphic-ff/?rent</url>
+        <name>Комплект Cooke Anamorphic FF</name>
+        <vendor>Cooke</vendor>
+        <model>Anamorphic FF Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Cooke Anamorphic FF — полнокадровые анаморфотные объективы с характером Cooke. Овальное боке, классические flare и уникальный характер изображения.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+        <devices_filter_14631>Anamorphic</devices_filter_14631>
+      </offer>
+      <offer id="14" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-cooke-anamorphic-s35/?rent</url>
+        <name>Комплект Cooke Anamorphic S35</name>
+        <vendor>Cooke</vendor>
+        <model>Anamorphic S35 Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Cooke Anamorphic S35 — анаморфотные объективы для Super35 с классическим характером Cooke. 2x сжатие, овальное боке и фирменные flare.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+        <devices_filter_14631>Anamorphic</devices_filter_14631>
+      </offer>
+      <offer id="15" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-tribe7-blackwing7-t-tune/?rent</url>
+        <name>Комплект Tribe7 Blackwing7 T-tune</name>
+        <vendor>Tribe7</vendor>
+        <model>Blackwing7 Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Tribe7 Blackwing7 — комплект полнокадровых объективов T1.9 с модульной настройкой (S, T, X тюнинги). 10 фокусных.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="16" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-ancient-optics-petzvalux/?rent</url>
+        <name>Комплект Ancient Optics Petzvalux</name>
+        <vendor>Ancient Optics</vendor>
+        <model>Petzvalux Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Ancient Optics Petzvalux — комплект объективов Petzval с характерным swirly bokeh. Фокусное расстояние варьируется в зависимости от модификации, а апертура позволяет управлять глубиной резкости. Формат подходит для современных камер с сенсором Full Frame. Объективы создают уникальный эффект размытия, идеально подходящий для кинематографических съёмок с акцентом на эмоциональную составляющую. Идеальный выбор для тех, кто ищет визуальный стиль с оттенком винтажного.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="17" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-zeiss-super-speed-rehouse-by-ancient-optics/?rent</url>
+        <name>Комплект Zeiss Super Speed Rehouse by Ancient Optics</name>
+        <vendor>Zeiss</vendor>
+        <model>Super Speed Rehouse by Ancient Optics</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Zeiss Super Speed Rehouse by Ancient Optics — легендарные объективы Zeiss Super Speed, переоборудованные Ancient Optics. Классический винтажный характер с современными удобствами.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+        <devices_filter_14628>Stabilized</devices_filter_14628>
+      </offer>
+      <offer id="18" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-sigma-cine/?rent</url>
+        <name>Комплект Sigma Cine</name>
+        <vendor>Sigma</vendor>
+        <model>Cine Prime Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Sigma Cine Prime — комплект современных кинообъективов с высокой оптической производительностью. Полностью металлическая конструкция, тихий фокус и апертура.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="19" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-iron-glass/?rent</url>
+        <name>Комплект Iron Glass</name>
+        <vendor>Iron Glass</vendor>
+        <model>MK2 Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Iron Glass MK2 — комплект rehoused vintage объективов с фокусными расстояниями 20, 28, 37, 58, 85 и 135 мм. Объективы имеют апертуру f/2.8 и рассчитаны на формат 35 мм. Идеально подходят для съёмки с акцентом на глубину резкости и естественное освещение. Обеспечивают широкий диапазон композиций, от динамичных сцен до атмосферных планов.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="20" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-vantage-one/?rent</url>
+        <name>Комплект Vantage One</name>
+        <vendor>Hawk</vendor>
+        <model>Vantage One Set</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Hawk Vantage One — комплект сверхсветосильных сферических объективов T1 для формата Super35. 12 фокусных расстояний от 14.5 до 120mm. Три характера в одном объективе благодаря системе Vantage Unified Optics.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+      </offer>
+      <offer id="21" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-ps-t-rex-periscope-system/?rent</url>
+        <name>Комплект P+S T-rex Periscope System</name>
+        <vendor>P+S Technik</vendor>
+        <model>T-rex Periscope System</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>P+S T-rex Periscope System — перископическая система для съёмки в труднодоступных местах. Позволяет снимать под углами 90°.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+        <devices_filter_14622>Macro lens</devices_filter_14622>
+        <devices_filter_14625>Periscope</devices_filter_14625>
+        <devices_filter_14628>Stabilized</devices_filter_14628>
+      </offer>
+      <offer id="22" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/комплект-ps-skater-scope/?rent</url>
+        <name>Комплект P+S Skater Scope</name>
+        <vendor>P+S Technik</vendor>
+        <model>Skater Scope</model>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>P+S Technik Skater Scope — перископический объектив для съёмки с уровня земли. Объектив рассчитан на формат 4:3, имеет фокусное расстояние 18–120 мм и апертуру f/2.8. Его конструкция позволяет снимать с низкого уровня, сохраняя естественную перспективу и минимальные искажения. Такой объектив удобен для съёмки в условиях ограниченного доступа, где требуется снимать с земли или низкого уровня.</description>
+        <devices_filter_14605>Фикс</devices_filter_14605>
+        <devices_filter_14622>Macro lens</devices_filter_14622>
+        <devices_filter_14625>Periscope</devices_filter_14625>
+      </offer>
+      <offer id="23" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/фильтры-vantage-bethke-effect/?rent</url>
+        <name>фильтры Vantage Bethke Effect</name>
+        <vendor>Vantage</vendor>
+        <model>Bethke Effect Filters</model>
+        <param name="devices_kit">one</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13927</categoryId>
+        <description>Vantage Bethke Effect Filters — набор эффектных фильтров для создания уникальных визуальных эффектов. Разработаны в сотрудничестве с cinematographer Bethke.</description>
+      </offer>
+      <offer id="24" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/дальномер-focusbug-cine-rt-system/?rent</url>
+        <name>дальномер Focusbug Cine RT System</name>
+        <vendor>Focusbug</vendor>
+        <model>Cine RT System</model>
+        <param name="devices_kit">one</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13933</categoryId>
+        <description>Focusbug Cine RT System — система лазерного дальномера для точной фокусировки. Автоматическое измерение дистанции до объекта в реальном времени с передачей данных на фоллоуфокус.</description>
+      </offer>
+      <offer id="25" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/мониторы-smallhd-oled-22aposapos/?rent</url>
+        <name>мониторы SmallHD Oled 22&amp;apos;&amp;apos;</name>
+        <vendor>SmallHD</vendor>
+        <model>OLED 22&amp;quot;</model>
+        <param name="devices_kit">one</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13958</categoryId>
+        <description>SmallHD OLED 22&amp;quot; — профессиональный OLED монитор с диагональю 22 дюйма. Истинный чёрный цвет, широкий цветовой охват и высокая контрастность для точной оценки изображения на площадке.</description>
+      </offer>
+      <offer id="26" type="vendor.model" available="true">
+        <url>https://cinemap.ru/devices/zoom-voigtlander-zoomar-36-82mm/?rent</url>
+        <name>zoom Voigtlander Zoomar 36-82mm</name>
+        <vendor>Voigtlander</vendor>
+        <model>Zoomar 36-82mm f/2.8</model>
+        <param name="devices_kit">one</param>
+        <price/>
+        <devices_price_on_request>1</devices_price_on_request>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <description>Voigtlander Zoomar 36-82mm f/2.8 — винтажный кинообъектив 1960-х годов, первый в мире зум-объектив для кино. Работает в формате 35 мм, с постоянной апертурой f/2.8. Объектив обеспечивает плавную фокусировку и четкое изображение в диапазоне 36–82 мм. Идеален для съемки сцен с разной глубиной пространства, позволяет упростить монтаж и сократить количество объективов на площадке.</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
