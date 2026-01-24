@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-01-24 13:38">
+  <shop>
+    <name>Аренда кинооборудования | рентал Cinemap</name>
+    <company>Cinemap</company>
+    <url>https://cinemap.ru</url>
+    <platform>Wordpress</platform>
+    <categories>
+      <category id="13915">Камеры</category>
+      <category id="13923">Оптика</category>
+      <category id="13928">Аксессуары для Камер</category>
+      <category id="13937">Операторское оборудование</category>
+      <category id="13943">Свет</category>
+      <category id="13954">Звук</category>
+      <category id="13958">Мониторы / Плейбэк</category>
+      <category id="13962">Коммутация</category>
+      <category id="13966">Источники питания</category>
+      <category id="13970">Грип</category>
+      <category id="13974">Все для съёмочной площадки</category>
+      <category id="13978">Расходные материалы</category>
+      <category id="13982">Монтаж / Пост</category>
+      <category id="13986">Сервис и Услуги</category>
+      <category id="13990">Экипировка</category>
+      <category id="13994">Арт Департамент</category>
+      <category id="13998">Кино Транспорт</category>
+      <category id="14002">Специальное Оборудование</category>
+      <category id="13916" parentId="13915">Цифровые кинокамеры</category>
+      <category id="13917" parentId="13915">Фотокамеры</category>
+      <category id="13918" parentId="13915">Студийные и телевизионные камеры</category>
+      <category id="13919" parentId="13915">Любительские видеокамеры</category>
+      <category id="13920" parentId="13915">Экшн-камеры и 360</category>
+      <category id="13921" parentId="13915">Скоростные Камеры</category>
+      <category id="13922" parentId="13915">Винтаж / Реквизит</category>
+      <category id="13924" parentId="13923">Объективы</category>
+      <category id="13925" parentId="13923">Адаптеры, насадки, маунты</category>
+      <category id="13926" parentId="13923">Фильтры круглые</category>
+      <category id="13927" parentId="13923">Фильтры прямоугольные</category>
+      <category id="13929" parentId="13928">Клетки и площадки</category>
+      <category id="13930" parentId="13928">Карты памяти и диски</category>
+      <category id="13933" parentId="13928">Фоллоуфокусы</category>
+      <category id="13934" parentId="13928">Компендиумы</category>
+      <category id="13935" parentId="13928">Ручки и Плечевые упоры</category>
+      <category id="13936" parentId="13928">Адаптеры / Переходники</category>
+      <category id="13938" parentId="13937">Системы стабилизации</category>
+      <category id="13939" parentId="13937">Краны и Долли</category>
+      <category id="13940" parentId="13937">Слайдеры и скейтеры</category>
+      <category id="13948" parentId="13958">Видео передатчики</category>
+    </categories>
+    <filters>
+      <filter id="14603">Тип</filter>
+      <filter id="14607">Опции оптики</filter>
+      <filter id="15525">Опции фильтров</filter>
+      <filter id="15534">Размер фильтров прямоугольных</filter>
+      <filter id="14605" parentId="14603">Фикс</filter>
+      <filter id="14606" parentId="14603">Зум</filter>
+      <filter id="14631" parentId="14607">Anamorphic</filter>
+      <filter id="14622" parentId="14607">Macro lens</filter>
+      <filter id="15524" parentId="14607">Lens Data</filter>
+      <filter id="14628" parentId="14607">Stabilized</filter>
+      <filter id="14632" parentId="14607">Effects</filter>
+      <filter id="14625" parentId="14607">Periscope</filter>
+      <filter id="14630" parentId="14607">Probe</filter>
+      <filter id="14627" parentId="14607">Soft lens</filter>
+      <filter id="14623" parentId="14607">Fisheye lens</filter>
+      <filter id="14629" parentId="14607">Defocus control</filter>
+      <filter id="14633" parentId="14607">Adapter</filter>
+      <filter id="14621" parentId="14607">Motorized</filter>
+      <filter id="14624" parentId="14607">Mirror lens</filter>
+      <filter id="14626" parentId="14607">Tilt/Shift lens</filter>
+      <filter id="15531" parentId="15525">Оптические эффекты</filter>
+      <filter id="15527" parentId="15525">НД</filter>
+      <filter id="15528" parentId="15525">Смягчающие и контрастные</filter>
+      <filter id="15532" parentId="15525">Специального назначения</filter>
+      <filter id="15530" parentId="15525">Цветовые эффекты</filter>
+      <filter id="15526" parentId="15525">Защитные и поляризационные</filter>
+      <filter id="15529" parentId="15525">Цветоизменяющие и черно белые</filter>
+      <filter id="15533" parentId="15525">Аксессуары к фильтрам</filter>
+      <filter id="15537" parentId="15534">4x5.65</filter>
+      <filter id="15536" parentId="15534">4x4</filter>
+      <filter id="15538" parentId="15534">5.65x5.65</filter>
+      <filter id="15535" parentId="15534">3x3</filter>
+      <filter id="15539" parentId="15534">6x6</filter>
+    </filters>
+    <offers>
+      <offer id="1" type="vendor.model" available="true">
+        <name>Signature Prime T1.8 12,15,18,21,25,29,35,40,47,58,75,95,125 (FF,S35)</name>
+        <vendor>Signature</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="2" type="vendor.model" available="true">
+        <name>Signature Impression set</name>
+        <vendor>Signature</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="3" type="vendor.model" available="true">
+        <name>TAMASHII Prime T1,5-2.3 22,26,29,36,42,52,58,88,110 (FF,S35)</name>
+        <vendor>TAMASHII</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="4" type="vendor.model" available="true">
+        <name>Leitz Hugo T1.5 18,21,24,28,35,50(1,4), 50 (0,95),75,90,135 (FF,S35)</name>
+        <vendor>Leitz</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="5" type="vendor.model" available="true">
+        <name>Tribe7 Blackwing T1.9 20.7,23,7,27,37,47,57,77,107,137 (FF,S35)</name>
+        <vendor>Tribe7</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="6" type="vendor.model" available="true">
+        <name>Cooke Panchro Classic Full Frame T2.2 18,25,32,40,50,65macro,75,100 (FF,S35)</name>
+        <vendor>Cooke</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="7" type="vendor.model" available="true">
+        <name>Leitz prime T1.8 18,25,35,50,85,100 (FF,S35)</name>
+        <vendor>Leitz</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="8" type="vendor.model" available="true">
+        <name>Petzvalux T1.9 27,38,55,80,120(FF,S35)</name>
+        <vendor>Petzvalux</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="9" type="vendor.model" available="true">
+        <name>Petzval TLS T2.1-2,3  58, 85 (FF,S35)</name>
+        <vendor>Petzval</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="10" type="vendor.model" available="true">
+        <name>GeckoCam T1.5-2.6 16,20,25,35,50,85 (FF,S35)</name>
+        <vendor>GeckoCam</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="11" type="vendor.model" available="true">
+        <name>Sigma FF T1.5-2.0 14,20,24,35,50,85,135 (FF,S35)</name>
+        <vendor>Sigma</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="12" type="vendor.model" available="true">
+        <name>Leitz Summilux-c T1.4 16,18,21,25,29,35,40,50,65,75,100 (S35)</name>
+        <vendor>Leitz</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="13" type="vendor.model" available="true">
+        <name>Cooke s4 T2.0 14,18,21,25,32,40,50,75,100,135 (S35)</name>
+        <vendor>Cooke</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="14" type="vendor.model" available="true">
+        <name>Cooke s5 T1.4 18,25,32,40,50,65,75,100 (S35)</name>
+        <vendor>Cooke</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="15" type="vendor.model" available="true">
+        <name>Lomo Vintage GL rehoused T1,3-2,1 14,18,22,28,35,40,50,75,100,150 (S35)</name>
+        <vendor>Lomo</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="16" type="vendor.model" available="true">
+        <name>Zeiss High Speed TLS/GL Rehoused T1.3 18,25,35,50,85,135(S35)</name>
+        <vendor>Zeiss</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="17" type="vendor.model" available="true">
+        <name>Zeiss Standard Prime T2,1 12,16,24,28,32,40,50,60macro,85,100,135,180 (S35)</name>
+        <vendor>Zeiss</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="18" type="vendor.model" available="true">
+        <name>Cooke Panchro Super Speed TLS rehoused T2.2 18,25,32,40,50,75,100(S35)</name>
+        <vendor>Cooke</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="19" type="vendor.model" available="true">
+        <name>Monolta Rokkor 17,21,28,35,45,58,85,135 (FF,S35)</name>
+        <vendor>Monolta</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="20" type="vendor.model" available="true">
+        <name>Iron Glass MK2 T2,1-3,6 20,28,37,58,85,135 (FF,S35)</name>
+        <vendor>Iron</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="21" type="vendor.model" available="true">
+        <name>Arri Enzo T2.1 18-21-24-32-47-75-105 + Vintage Elements</name>
+        <vendor>Arri</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="22" type="vendor.model" available="true">
+        <name>Canon FD GL Optics 14,15,18,24,35,45,55,85,135, 300 (extender 2.0)</name>
+        <vendor>Canon</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="23" type="vendor.model" available="true">
+        <name>Minihawk 29,35,40,50,65,80,100,135,180(S35)</name>
+        <vendor>Minihawk</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="24" type="vendor.model" available="true">
+        <name>Cooke Full Frame Anamorphic T2.3 32,40,50,75,100,135 (FF,S35)</name>
+        <vendor>Cooke</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+        <filterId>14631</filterId>
+      </offer>
+      <offer id="25" type="vendor.model" available="true">
+        <name>Elite Anamorphic T2.0 32,40,50,75,100,135 (S35)</name>
+        <vendor>Elite</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+        <filterId>14631</filterId>
+      </offer>
+      <offer id="26" type="vendor.model" available="true">
+        <name>Atlas Orion T2.0 25,32,40,50,65,80,100 (S35)</name>
+        <vendor>Atlas</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+        <filterId>14631</filterId>
+      </offer>
+      <offer id="27" type="vendor.model" available="true">
+        <name>Atlas Mercury 36-42–54-72-95-138 (FF,S35)</name>
+        <vendor>Atlas</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+        <filterId>14631</filterId>
+      </offer>
+      <offer id="28" type="vendor.model" available="true">
+        <name>Lomo Ana 35-50-75-100-135(S35)</name>
+        <vendor>Lomo</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+        <filterId>14631</filterId>
+      </offer>
+      <offer id="29" type="vendor.model" available="true">
+        <name>Hawk Class-x 28,35,40,65 (S35)</name>
+        <vendor>Hawk</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+        <filterId>14631</filterId>
+      </offer>
+      <offer id="30" type="vendor.model" available="true">
+        <name>Skaterscope (S35)</name>
+        <vendor>Skaterscope</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="31" type="vendor.model" available="true">
+        <name>Laowa 24 macro T8 (ver3) (FF,S35)</name>
+        <vendor>Laowa</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="32" type="vendor.model" available="true">
+        <name>DZO Macro Extract 18-28 T8 (FF,S35)</name>
+        <vendor>DZO</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="33" type="vendor.model" available="true">
+        <name>DZO Macro Extract 18-28 T8 90 градусов (FF,S35)</name>
+        <vendor>DZO</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="34" type="vendor.model" available="true">
+        <name>Cooke Panchro 65 macro T2.4 (FF,S35)</name>
+        <vendor>Cooke</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="35" type="vendor.model" available="true">
+        <name>DZO Macro 24 T2.8 (FF,S35)</name>
+        <vendor>DZO</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="36" type="vendor.model" available="true">
+        <name>DZO Macro 32 T2.8 (FF,S35)</name>
+        <vendor>DZO</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="37" type="vendor.model" available="true">
+        <name>Zeiss Macro 50 T2.1 (FF,S35)</name>
+        <vendor>Zeiss</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="38" type="vendor.model" available="true">
+        <name>Zeiss Macro 60 T3.0 (FF,S35)</name>
+        <vendor>Zeiss</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="39" type="vendor.model" available="true">
+        <name>Tokina macro 100 T2.9 (FF,S35)</name>
+        <vendor>Tokina</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="40" type="vendor.model" available="true">
+        <name>Laowa 7,5 RF (S35)</name>
+        <vendor>Laowa</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="41" type="vendor.model" available="true">
+        <name>Laowa 9 RF (S35)</name>
+        <vendor>Laowa</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="42" type="vendor.model" available="true">
+        <name>Laowa 9 T5,8 (FF,S35)</name>
+        <vendor>Laowa</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="43" type="vendor.model" available="true">
+        <name>Laowa 8-15 Fisheye (FF,S35)</name>
+        <vendor>Laowa</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="44" type="vendor.model" available="true">
+        <name>Laowa 10 PL II T2.9 (FF,S35)</name>
+        <vendor>Laowa</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="45" type="vendor.model" available="true">
+        <name>Laowa 10 LPL T3.1 (FF,S35)</name>
+        <vendor>Laowa</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="46" type="vendor.model" available="true">
+        <name>Laowa 12 PL T2.9 (FF,S35)</name>
+        <vendor>Laowa</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="47" type="vendor.model" available="true">
+        <name>Laowa 12 PL II T2.9 (FF,S35)</name>
+        <vendor>Laowa</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="48" type="vendor.model" available="true">
+        <name>Laowa 14 PL T2.1 (FF,S35)</name>
+        <vendor>Laowa</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="49" type="vendor.model" available="true">
+        <name>Kinoptik 9,8 T2.3 (S35)</name>
+        <vendor>Kinoptik</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="50" type="vendor.model" available="true">
+        <name>Elite 9,6 (S35)</name>
+        <vendor>Elite</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="51" type="vendor.model" available="true">
+        <name>Belomo 8mm T3.5 (S35)</name>
+        <vendor>Belomo</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="52" type="vendor.model" available="true">
+        <name>Voitlander 36-82 (FF,S35, винтаж)</name>
+        <vendor>Voitlander</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="53" type="vendor.model" available="true">
+        <name>Canon K35 25-120 T2.8 Macro (S35, винтаж)</name>
+        <vendor>Canon</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="54" type="vendor.model" available="true">
+        <name>Canon K35 50-240 T5.6 Macro (FF, винтаж) с экстендером</name>
+        <vendor>Canon</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="55" type="vendor.model" available="true">
+        <name>Ломо 35ОПФ18-1 20-120 mm T2.5 (S35, винтаж)</name>
+        <vendor>Ломо</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="56" type="vendor.model" available="true">
+        <name>Ломо 35ОПФ18-1 30-180 mm T3.75 (с экстендером 1.5) (S35, винтаж)</name>
+        <vendor>Ломо</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="57" type="vendor.model" available="true">
+        <name>Ломо 35ОПФ18-1 42-250 mm T5.25 (с экстендером 2.1) (S35, винтаж)</name>
+        <vendor>Ломо</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="58" type="vendor.model" available="true">
+        <name>Ломо 35ОПФ18-1 42-250 mm T5.25 (с анаморфотным задником) (S35, винтаж)</name>
+        <vendor>Ломо</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="59" type="vendor.model" available="true">
+        <name>Ломо Фотон 37-140 T3.5 (S35, винтаж)</name>
+        <vendor>Ломо</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="60" type="vendor.model" available="true">
+        <name>Fujinon Premista 28-100 T2.9 (FF,S35)</name>
+        <vendor>Fujinon</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="61" type="vendor.model" available="true">
+        <name>Fujinon Premista 80-250 T2.9 (FF,S35)</name>
+        <vendor>Fujinon</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="62" type="vendor.model" available="true">
+        <name>Tokina 16-28 T3.0 (FF,S35)</name>
+        <vendor>Tokina</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="63" type="vendor.model" available="true">
+        <name>Tokina 11-20 T2.9 (S35)</name>
+        <vendor>Tokina</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="64" type="vendor.model" available="true">
+        <name>Angenuiex 15-40 T2.0 (S35)</name>
+        <vendor>Angenuiex</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="65" type="vendor.model" available="true">
+        <name>Angenuiex 30-90 T2.0 (S35)</name>
+        <vendor>Angenuiex</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="66" type="vendor.model" available="true">
+        <name>Angenuiex 22-60 T3.0 (FF,S35)</name>
+        <vendor>Angenuiex</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="67" type="vendor.model" available="true">
+        <name>Angenuiex 45-135 T3.0 (FF,S35)</name>
+        <vendor>Angenuiex</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="68" type="vendor.model" available="true">
+        <name>Angenuiex 45-165 T2.3 (S35)</name>
+        <vendor>Angenuiex</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="69" type="vendor.model" available="true">
+        <name>Angenuiex 68-250 T3.5 (FF,S35)</name>
+        <vendor>Angenuiex</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="70" type="vendor.model" available="true">
+        <name>Angenuiex 25-250 T3.5/3,9 (S35) (винтаж)</name>
+        <vendor>Angenuiex</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="71" type="vendor.model" available="true">
+        <name>Arri Alura 45-250 T2.6 (S35)</name>
+        <vendor>Arri</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="72" type="vendor.model" available="true">
+        <name>Arri Alura 18-80 T2.6 (S35)</name>
+        <vendor>Arri</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="73" type="vendor.model" available="true">
+        <name>Optex 4 mm T2.0</name>
+        <vendor>Optex</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="74" type="vendor.model" available="true">
+        <name>Optex 5,5 mm T2.0</name>
+        <vendor>Optex</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="75" type="vendor.model" available="true">
+        <name>Kinoptik 5,7 T2.2</name>
+        <vendor>Kinoptik</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="76" type="vendor.model" available="true">
+        <name>Arri Ultra Prime S16 T1.3 6,8,9,5,12,14,18,25,35,50</name>
+        <vendor>Arri</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="77" type="vendor.model" available="true">
+        <name>Elite Optar T1.3 8,9.5,12,16,25,50</name>
+        <vendor>Elite</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="78" type="vendor.model" available="true">
+        <name>Zeiss S16 MK3 T1.3 9,5,12,16,25,50</name>
+        <vendor>Zeiss</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="79" type="vendor.model" available="true">
+        <name>Canon S16 T2.7 10,6-180</name>
+        <vendor>Canon</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="80" type="vendor.model" available="true">
+        <name>Canon S16 T2.5 11-165</name>
+        <vendor>Canon</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="81" type="vendor.model" available="true">
+        <name>Angenuiex S16 T2.5 7-81</name>
+        <vendor>Angenuiex</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="82" type="vendor.model" available="true">
+        <name>Ricoh 6 mm (C-Mount)</name>
+        <vendor>Ricoh</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="83" type="vendor.model" available="true">
+        <name>Angenuiex 8-64 F1.9 (C-Mount)</name>
+        <vendor>Angenuiex</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14606</filterId>
+      </offer>
+      <offer id="84" type="vendor.model" available="true">
+        <name>Kern Switar RX 10 F1,6 (C-Mount)</name>
+        <vendor>Kern</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="85" type="vendor.model" available="true">
+        <name>Kern Switar RX 16 F1,8 (C-Mount)</name>
+        <vendor>Kern</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="86" type="vendor.model" available="true">
+        <name>Kern Switar RX 25 F1.4 (C-Mount)</name>
+        <vendor>Kern</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="87" type="vendor.model" available="true">
+        <name>Kern Switar RX 50 F1.4 (C-Mount)</name>
+        <vendor>Kern</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="88" type="vendor.model" available="true">
+        <name>Kern Switar RX 75 F1.9 (C-Mount)</name>
+        <vendor>Kern</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="89" type="vendor.model" available="true">
+        <name>Meopta Largor 12,5 F1.8 (C-Mount)</name>
+        <vendor>Meopta</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="90" type="vendor.model" available="true">
+        <name>Meopta Openar 20 F1.8 (C-Mount)</name>
+        <vendor>Meopta</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="91" type="vendor.model" available="true">
+        <name>Meopta Openar 40 F1.8 (C-Mount)</name>
+        <vendor>Meopta</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+      <offer id="92" type="vendor.model" available="true">
+        <name>Meopta Openar 80 F2.8 (C-Mount)</name>
+        <vendor>Meopta</vendor>
+        <model/>
+        <param name="devices_kit">kit</param>
+        <price/>
+        <currencyId>RUB</currencyId>
+        <categoryId>13924</categoryId>
+        <filterId>14605</filterId>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
